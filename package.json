@@ -1,0 +1,17 @@
+{
+  "name": "altyapi",
+  "version": "0.0.1",
+  "description": "bosv12",
+  "main": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "Onurege",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "nukleon": "0.0.2"
+  },
+  "keywords": []
+}
