@@ -1,4 +1,4 @@
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<img align="right" height="150rem" alt="GIF" src="https://user-images.githubusercontent.com/78586675/121921369-9cabb880-cd41-11eb-8814-0da7526ab152.gif"/>
 
 
 ## Merhabalar Sizin için derlediğim **Ticket Bot** Altyapısına Hoşgeldiniz.
