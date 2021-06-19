@@ -5,7 +5,7 @@
 
 ## <i> Kurulum </i>
 
-**Altyapıyı yükledikten sonra terminal bölümüne npm i kodunu yazınız bu kod botun çalışması için gerekli modülleri (discord.js,fs ve nukleon) otomatik olarak yükler**
+**Altyapıyı yükledikten sonra terminal bölümüne ```npm i``` kodunu yazınız bu kod botun çalışması için gerekli modülleri (discord.js,fs ve nukleon) otomatik olarak yükler**
 
 ## <i> Bilgilendirme </i>
 
